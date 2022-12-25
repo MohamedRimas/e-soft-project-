@@ -1,0 +1,79 @@
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\bin\Debug\HRS.exe.config
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\bin\Debug\HRS.exe
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\bin\Debug\HRS.pdb
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form1.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Properties.Resources.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.csproj.GenerateResource.Cache
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.exe
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.pdb
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form3.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form4.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form5.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form6.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form7.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form8.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form10.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form11.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form9.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form12.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form2.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form13.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form14.resources
+C:\Users\Mohamed Fainas\OneDrive\Documents\Visual Studio 2015\Projects\HRS\HRS\obj\Debug\HRS.Form15.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\bin\Debug\HRS.exe.config
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.exe
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.pdb
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\bin\Debug\HRS.exe
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\bin\Debug\HRS.pdb
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.csprojResolveAssemblyReference.cache
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form1.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form10.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form11.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form12.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form13.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form14.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form15.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form2.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form3.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form4.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form5.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form6.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form7.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form8.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Form9.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.Properties.Resources.resources
+C:\Users\bsc\Desktop\New folder (2)\HRS\HRS\obj\Debug\HRS.csproj.GenerateResource.Cache
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\HRS.exe.config
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.exe
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.pdb
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\HRS.exe
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\HRS.pdb
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form1.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form10.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form11.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form12.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form13.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form14.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form15.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form2.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form3.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form4.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form5.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form6.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form7.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form8.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Form9.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.Properties.Resources.resources
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.csproj.GenerateResource.Cache
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\HRS.exe.manifest
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\HRS.application
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.exe.manifest
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.application
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\Table_1.mdf
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\Table_1_log.ldf
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\hotel_1.mdf
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\hotel_1_log.ldf
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\hoteal_new.mdf
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\bin\Debug\hoteal_new_log.ldf
+C:\Users\bsc\Desktop\esoft project\HRS\HRS\obj\Debug\HRS.csprojResolveAssemblyReference.cache
